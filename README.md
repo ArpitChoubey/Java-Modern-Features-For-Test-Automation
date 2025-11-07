@@ -71,5 +71,4 @@ SDET | QA | Automation Engineer
 ⭐ Support
 If this repository helps you, please Star 🌟 it.
 
-javac src/NewFeatures/ScopedValueExample.java
-java src/NewFeatures/ScopedValueExample
+
