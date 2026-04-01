@@ -1,4 +1,7 @@
- Java 25 Features — Simplified, Smarter, and Ready for Tomorrow 🚀  
+ Java-Modern-Features-For-Test-Automation
+
+ 
+Java 25 Features — Simplified, Smarter, and Ready for Tomorrow 🚀  
 
 Welcome to **Java 25 Features**, a hands-on code repository showcasing the most transformative updates from **Java 25 (September 16 2025)**.  
 These examples focus on readability, simplicity, and modern-day developer productivity.
